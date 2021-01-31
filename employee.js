@@ -1,4 +1,4 @@
-class employee{
+export class employee{
     name;
     tasklist=[];
     des=[];
